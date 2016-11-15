@@ -1,0 +1,23 @@
+---
+layout: post
+title: De que forma o cientista de dados pode ajudar sua empresa?
+tags:
+  - ciencia de dados
+  - posso ajudar?
+published: true
+---
+
+Em teoria dos jogos e teoria econômica, um jogo de soma zero se refere a uma situação onde o ganho de um jogador representa a perda de outro jogador [1]. No dia-a-dia, uma situação que frequente vivenciamos é aquela que diz que não podemos ter tudo ao mesmo tempo. Constantemente somos questionados sobre o “bom, barato ou rápido”, onde escolhemos uma ou duas das opções, abrindo mão de algo. É o jogo de soma zero da vida real.
+Em um cenário com poucas variáveis e poucas alternativas é razoável considerar que um profissional com experiência consiga encontrar a solução ótima. Em um cenário complexo, de muitas variáveis, onde algumas alternativas não estão claras é prudente tentar obter o máximo de informações antes da tomada de decisão. Nesse momento você aperta o botão de “me ajude a tomar a melhor decisão possível”. Em contrapartida, te questiono: Você deseja a ajuda boa, barata ou rápida? Você pode escolher somente uma?
+Eis que surge o primeiro ponto da decisão: o quão rápido será tomar a decisão? A velocidade depende da facilidade de acesso à informação, se ela está centralizada ou pulverizada, bem ou mal estruturada , se está em um banco de dados acessível ou ainda em planilhas e documentos word espalhados pela empresa. Todas essas variáveis podem encarecer a tomada de decisão, e é comum você chegar no beco sem saída, no pensamento perde-perde em que é melhor manter as coisas como estão do que investir na melhoria da informação.
+O segundo ponto  fala da qualidade da informação. Você confia na informação que tem? Ela é precisa?A informação necessária para a tomada de decisão está presente nos seus dados? Nesse momento você pode descobrir que ainda não pode escolher a opção “boa”. É necessário um trabalho de evolução da informação para que fique em uma qualidade (acurácia, completude, confiança) que é pré-requisito para a correta tomada de decisão.
+O terceiro ponto é do custo da informação. O custo para atualizar a informação e a frequência/velocidade com que ela deve ser obtida são alguns requisitos comuns para o apoio à decisão. Além destes, os custos necessários para prover qualidade e velocidade no acesso à informação são incluídos quando avaliamos todo o contexto.
+Diante do cenário, o cientista de dados deve atuar nas seguintes frentes:
+Auxiliar na coleta dos dados, utilizando fontes de dados estruturadas, semi-estruturadas e não estruturadas para organizar e avaliar se a informação presente é suficiente para apoiar a tomada de decisão (reduzindo a velocidade para obtenção dos dados);
+Processar estatísticamente a informação, utilizando técnicas de análise exploratória, inferência, predição e organização visual dos dados para avaliar e gerar nova informação de qualidade (aumentando a qualidade da  informação);
+Incrementar a velocidade no acesso a informação, através da obtenção automática de dados, misturando técnicas de análise estatística e avaliação das diversas fontes de dados para gerar de forma instantânea a informação (diminuindo o custo de obtenção da informação).
+
+E de que forma a bola de cristal no início do post está relacionada ao tema? Penso que a bola de cristal representa a propensão de cada indivíduo em acreditar em algo além da razão para apoiar a tomada de decisão, se baseando em flashes de conhecimento e de experiências específicas que, quando generalizadas, não necessariamente chegam ao melhor resultado. O cientista de dados, por sua vez, dá a visão estruturada e estatística da informação, adequando a informação às diversas audiências e indicando qual dado deve ser armazenado para ajudar a resolver as grandes questões.
+O cientista de dados então é o profissional que ajuda tomada de decisão boa, barata e rápida.
+Até a próxima.
+Texto baseado no ótimo post de Shelly Palmer: Data-Driven Thinking: A Zero-Sum Game [acesse texto completo aqui]
