@@ -17,13 +17,13 @@ baseurl: ""
 title: Loja de Dados
 
 # Short description of your site
-description: 
+description: Site de Produtos de Data Science: Visualizações, Shiny dashboards e Pacotes R
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "sobre"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
